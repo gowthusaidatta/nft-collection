@@ -1,5 +1,5 @@
 # NFT Collection – ERC‑721 Smart Contract  
-(Complete README for Submission)
+
 
 ## Overview
 This repository contains a fully functional ERC‑721–compatible NFT smart contract, a complete automated test suite, and a Dockerized environment for reproducible compilation and testing.
@@ -165,7 +165,7 @@ The Docker container:
 ---
 
 ## Author
-**Kunisetty Rushikesh**
+**Gowthu v v satya sai datta manikanta**
 
 ---
 
